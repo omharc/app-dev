@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# My favorite movie of all time
+# My Favorite Movie Of All Time
 ### Genre/Horror
 1. Psycho: (1960)
 2. The Silence of the Lambs: (1991)
